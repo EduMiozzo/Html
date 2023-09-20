@@ -1,0 +1,10 @@
+C:\Users\lab-mma\Desktop\Calculo IMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe.config
+C:\Users\lab-mma\Desktop\Calculo IMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe
+C:\Users\lab-mma\Desktop\Calculo IMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.pdb
+C:\Users\lab-mma\Desktop\Calculo IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\lab-mma\Desktop\Calculo IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.Form1.resources
+C:\Users\lab-mma\Desktop\Calculo IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.Properties.Resources.resources
+C:\Users\lab-mma\Desktop\Calculo IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.GenerateResource.cache
+C:\Users\lab-mma\Desktop\Calculo IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\lab-mma\Desktop\Calculo IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.exe
+C:\Users\lab-mma\Desktop\Calculo IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.pdb
